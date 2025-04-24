@@ -21,7 +21,7 @@ The project consists of the following Python scripts:
 ### Installation
 
 1. Clone the repository:
-   `git clone https://github.com/yourusername/amazon-reviews-scraper.git`
+   `git clone https://github.com/mominwaqas15/amazon-reviews-scraper.git`
    `cd amazon-reviews-scraper`
 
 2. Install the required Python packages:
